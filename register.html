@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Đăng Ký</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="form-container">
+    <label>Vai trò</label>
+    <select id="register-role">
+      <option value="student">Sinh viên</option>
+      <option value="teacher">Giảng viên</option>
+      <option value="admin">Quản trị viên</option>
+    </select>
+
+    <h2>Đăng Ký</h2>
+    <input type="text" id="register-username" placeholder="Tên đăng nhập" />
+    <input type="password" id="register-password" placeholder="Mật khẩu" />
+    <button type="button" onclick="register()">Đăng ký</button>
+    <p>Đã có tài khoản? <a href="login.html">Đăng nhập</a></p>
+  </div>
+
+  <!-- ✅ Đúng file chứa hàm register -->
+  <script src="js/auth.js" defer></script>
+</body>
+</html>
