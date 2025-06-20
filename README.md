@@ -19,3 +19,13 @@ Hệ thống sẽ cung cấp các chức năng chính như:
 - Đảm bảo an toàn bảo mật thông tin cá nhân của sinh viên.
 
 Thông qua đề án này, nhóm thực hiện mong muốn áp dụng các kiến thức về lập trình, thiết kế cơ sở dữ liệu, quản lý dự án và phát triển phần mềm để giải quyết một vấn đề thực tiễn, đồng thời trau dồi kỹ năng làm việc nhóm và tư duy sáng tạo.
+#  Bảng Phân Công Nhiệm Vụ – Nhóm 5 Thành Viên
+
+| **Tuần** | Đặng Tuấn Mạnh | Phạm Tùng Dương | Đoàn Đắc Tiến Đạt | Trịnh Thị Thảo | Võ Hoàng Dũng |
+|----------|------------------|------------------|------------------|------------------|------------------|
+| **1** | Đề xuất ý tưởng, đặt tên đề tài | Khảo sát nghiệp vụ | Xác định chức năng | Ghi biên bản nhóm | Viết yêu cầu phần mềm |
+| **2** | Vẽ Use Case | Thiết kế UI mẫu | Mô tả chức năng | Phân chia nhóm xử lý | Đề xuất dự án |
+| **3** | Thiết kế CSDL (ERD) | Thiết kế UI chi tiết | Sơ đồ trình tự | Mô tả Use Case | Kiểm tra liên kết chức năng |
+| **4** | Lập trình SV | Lập trình lớp/môn | Lập trình điểm | Kiểm thử module | Viết tài liệu hướng dẫn |
+| **5** | Tích hợp, báo cáo | Chuẩn bị demo | Đánh giá kết quả | Slide thuyết trình | Hỗ trợ demo, phản biện |
+
